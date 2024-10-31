@@ -92,4 +92,4 @@ Acknowledgments
 NVIDIA NeMo: For providing the AI framework and tools used in this project.
 Hugging Face: For LLM resources.
 City of Erfurt: For inspiring this project.
-Enjoy building and interacting with Erfurt City Chatbot!
+Enjoy building and interacting with the Erfurt AI Avatar System.

@@ -1,4 +1,5 @@
 Erfurt City AI Avatar System
+------------------------------
 
 Multimodal LLM and ASR with NVIDIA NeMo
 Welcome to the Erfurt City AI Avatar System! This repository is designed to showcase the power of NVIDIA NeMo, a conversational AI framework, to create a multimodal chatbot capable of understanding both text and voice inputs and generating responsive, dynamic visual avatars.

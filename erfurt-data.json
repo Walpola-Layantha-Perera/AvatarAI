@@ -1,0 +1,52 @@
+[
+    {
+        "context": "Erfurt is the capital city of Thuringia in Germany. It has a population of approximately 213,000. The city is known for its well-preserved medieval city center, which attracts many tourists each year. Erfurt was first mentioned in records in 742 AD, making it a city with a rich history.",
+        "question": "What is the capital of Thuringia?",
+        "answer": "Erfurt is the capital city of Thuringia in Germany."
+    },
+    {
+        "context": "Erfurt is known for its well-preserved medieval city center. It has a mix of traditional half-timbered buildings and important historical sites. The city has been a center for trade and culture for centuries, especially during the medieval period.",
+        "question": "What is Erfurt known for?",
+        "answer": "Erfurt is known for its well-preserved medieval city center."
+    },
+    {
+        "context": "The Krämerbrücke, or Merchant's Bridge, is one of the most famous landmarks in Erfurt. It is a medieval bridge lined with timber-framed merchant houses. Another significant landmark is the Erfurt Cathedral, a Gothic cathedral that dominates the city's skyline.",
+        "question": "What are some famous landmarks in Erfurt?",
+        "answer": "Some famous landmarks in Erfurt include the Krämerbrücke and the Erfurt Cathedral."
+    },
+    {
+        "context": "Erfurt Cathedral, also known as St. Mary's Cathedral, is a Gothic-style cathedral located on Domplatz. It is one of the most prominent landmarks in Erfurt and dates back to the 8th century. The cathedral features stunning stained glass windows and a massive bell named 'Gloriosa', which is the largest free-swinging medieval bell in the world.",
+        "question": "What is Erfurt Cathedral known for?",
+        "answer": "Erfurt Cathedral is known for its Gothic architecture, stained glass windows, and the 'Gloriosa' bell."
+    },
+    {
+        "context": "The University of Erfurt, originally founded in 1379, is one of the oldest universities in Germany. It was re-established in 1994 after being closed for several centuries. The university has played a significant role in Erfurt's cultural and educational development.",
+        "question": "What is one of the oldest universities in Germany located in Erfurt?",
+        "answer": "The University of Erfurt is one of the oldest universities in Germany."
+    },
+    {
+        "context": "Erfurt has a strong historical connection to Martin Luther, the Protestant Reformer. Luther studied at the University of Erfurt and later lived in the Augustinian Monastery in the city. The monastery is now a museum dedicated to his life and work.",
+        "question": "What is Martin Luther's connection to Erfurt?",
+        "answer": "Martin Luther studied at the University of Erfurt and lived in the Augustinian Monastery in Erfurt."
+    },
+    {
+        "context": "The city of Erfurt played a significant role during the Middle Ages as a major trading hub. Its location made it a crossroads for important trade routes, and it was well-known for the production of woad, a plant used to make blue dye.",
+        "question": "Why was Erfurt significant in the Middle Ages?",
+        "answer": "Erfurt was a major trading hub and was known for the production of woad, used to make blue dye."
+    },
+    {
+        "context": "Erfurt hosts several annual events that attract visitors from around the world, including the Erfurt Christmas Market, one of the largest in Germany, and the DomStufen Festival, which features performances on the steps of the Erfurt Cathedral.",
+        "question": "What are some annual events in Erfurt?",
+        "answer": "Annual events in Erfurt include the Erfurt Christmas Market and the DomStufen Festival."
+    },
+    {
+        "context": "Erfurt has a variety of museums and cultural institutions, including the Angermuseum, which is an art museum located in a historic building, and the Natural History Museum of Erfurt, which showcases regional flora and fauna.",
+        "question": "What are some museums in Erfurt?",
+        "answer": "Some museums in Erfurt include the Angermuseum and the Natural History Museum of Erfurt."
+    },
+    {
+        "context": "Erfurt has an extensive tram system that connects different parts of the city, making it easy for residents and visitors to get around. The city also has a well-developed public transport network that includes buses.",
+        "question": "How do people get around in Erfurt?",
+        "answer": "People in Erfurt get around using the extensive tram system and buses."
+    }
+]

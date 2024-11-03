@@ -27,7 +27,7 @@ Setup and Installation
 Python 3.8 or higher
 NVIDIA GPU with CUDA support (recommended for NeMo)
 NVIDIA NeMo: pip install nemo_toolkit['all']
-2. Clone the Repository
+2. Clone the Repository: 
    git clone https://github.com/Walpola-Layantha-Perera/AvatarAI
 
 

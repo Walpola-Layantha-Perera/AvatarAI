@@ -28,12 +28,13 @@ Python 3.8 or higher
 NVIDIA GPU with CUDA support (recommended for NeMo)
 NVIDIA NeMo: pip install nemo_toolkit['all']
 2. Clone the Repository
+   git clone https://github.com/Walpola-Layantha-Perera/AvatarAI
 
 
-3. Install Required Packages
+4. Install Required Packages
 pip install -r requirements.txt
 
-4. Setting Up NVIDIA NeMo Models
+5. Setting Up NVIDIA NeMo Models
 To enable NeMo for both text and voice handling, set up pre-trained models in the following categories:
 ASR Model: Download a NeMo ASR model or fine-tune on your domain-specific dataset if available.
 Language Model: Download or fine-tune an existing model using domain-specific data.

@@ -28,11 +28,11 @@ NVIDIA GPU with CUDA support (recommended for NeMo)
 NVIDIA NeMo: pip install nemo_toolkit['all']
 2. Clone the Repository
 bash
-Copy code
+
 git clone 
 3. Install Required Packages
 bash
-Copy code
+
 pip install -r requirements.txt
 4. Setting Up NVIDIA NeMo Models
 To enable NeMo for both text and voice handling, set up pre-trained models in the following categories:
@@ -42,7 +42,7 @@ Language Model: Download or fine-tune an existing model using domain-specific da
 Example setup:
 
 python
-Copy code
+
 from nemo.collections.asr.models import ASRModel
 from nemo.collections.nlp.models.language_modeling import TransformerLMModel
 

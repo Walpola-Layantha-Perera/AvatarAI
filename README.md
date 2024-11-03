@@ -22,6 +22,7 @@ Transformers: Leveraging Hugging Face models for foundational LLM capabilities.
 Streamlit: A fast and easy interface for interacting with the chatbot.
 Pygame & gTTS: For playing voice responses and generating spoken outputs.
 Setup and Installation
+
 1. Prerequisites
 Python 3.8 or higher
 NVIDIA GPU with CUDA support (recommended for NeMo)
@@ -30,18 +31,15 @@ NVIDIA NeMo: pip install nemo_toolkit['all']
 
 
 3. Install Required Packages
-
-
 pip install -r requirements.txt
+
 4. Setting Up NVIDIA NeMo Models
 To enable NeMo for both text and voice handling, set up pre-trained models in the following categories:
-
 ASR Model: Download a NeMo ASR model or fine-tune on your domain-specific dataset if available.
 Language Model: Download or fine-tune an existing model using domain-specific data.
 Example setup:
 
 python
-
 from nemo.collections.asr.models import ASRModel
 from nemo.collections.nlp.models.language_modeling import TransformerLMModel
 

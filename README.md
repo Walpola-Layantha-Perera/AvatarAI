@@ -27,11 +27,10 @@ Python 3.8 or higher
 NVIDIA GPU with CUDA support (recommended for NeMo)
 NVIDIA NeMo: pip install nemo_toolkit['all']
 2. Clone the Repository
-bash
 
-git clone 
+
 3. Install Required Packages
-bash
+
 
 pip install -r requirements.txt
 4. Setting Up NVIDIA NeMo Models
@@ -59,8 +58,6 @@ Use NeMo Curator to preprocess and manage your dataset for training.
 6. Run the Chatbot
 Start the chatbot by running the main Streamlit app:
 
-bash
-Copy code
 streamlit run app.py
 Usage
 Select Input Mode: Choose between “Type your question” or “Use voice command.”
